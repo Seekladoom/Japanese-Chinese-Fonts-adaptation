@@ -1,2 +1,2 @@
 # Japanese-Chinese-Fonts-adaptation
-Japanese&amp;Chinese Fonts adaptation
+Japanese+Chinese Fonts adaptation
