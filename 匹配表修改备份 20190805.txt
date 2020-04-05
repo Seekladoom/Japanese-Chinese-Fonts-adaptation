@@ -1,0 +1,29 @@
+A1明朝 → 华文宋体
+
+ModeMinA/B
+B字重：正中黑 
+E字重：方正粗黑宋，华康俪金黑，MSungGold
+华康俪金黑 & 華康儷金黑，没有本家对应的日文版本。
+
+森泽UD新黑 简繁通用
+
+简繁日名称翻车：
+华康新综艺体 
+华康雅宋体
+华康华综体
+华康勘亭流
+华康龙门石碑
+
+DFPMaruMojiRD-W12（旧：DFPBrushRD-W12）
+
+A-OTF Haruhi Gakuen L 追加搭配：造字工房米萌/漫语
+FOT-Chiaro 追加搭配：汉仪润圆
+FOT-Gospel 追加搭配：本墨津黑
+FOT-Yuruka 追加搭配：华康海报体
+
+方正悠宋后6个字重待追加
+
+简繁通用像素字体追加：
+UniFont
+
+针对FOT-Greco和DFKaisho追加蒙纳的MKai PRC/HK（三字重）
